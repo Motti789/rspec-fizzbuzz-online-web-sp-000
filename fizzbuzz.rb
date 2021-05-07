@@ -8,6 +8,6 @@ end
 
 if 3 + 2 == 5
   puts "fizzbuzz"
-else 
+else
   puts "nil"
 end
